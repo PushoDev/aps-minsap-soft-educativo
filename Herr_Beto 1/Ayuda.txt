@@ -1,0 +1,16 @@
+1- Pantallas de los contenidos:
+Como su nombre lo indica, los contenidos aparecerán en los mismas de forma que pueda ud, ir al contenido deseado mediante botones hacia los mismos...
+En cada uno de los botones estrán grabados los nombres los cuales se representan. En la parate superior derecha encontrarás dos botones que te permitiran minimizar la multimedia y asi hacer otra acción de la que estas estudiando, al igual que el boton cerrar como sombre lo indica es para salir de este Software.
+En el centro superior debajo del nombre del proyecto encontrarás una barra de busqueda donde pdrás acceder a los contenidos específicos que deseas estudiar.
+
+2- Botones Inferiores:
+Estos se encuentran en la parte inferior de la pantalla, ahí encontrarás un grupo de botones que dan acceso a las siguientes opciones...
+2.1 Icono de Pantalla Principal: Accederas a la Pantalla Inicial del Software.
+2.2 Icono Atrás: Para ir a la pantalla anterior que antes estabas.
+2.3 Icono Sonido On/Off: Te permite Activar o Desactivar la musica de fondo.
+2.4 Icono Ayuda: Podrás visualizar esta pantalla
+2.5 Icono Contacto: Muestra una ventana y así podrás contactar con los autores de este proyecto.
+
+3- Tanto Otros botones que encontrarás en el recorrido, como su nombre lo indican es para otras opciones necesarias de cada contenido.
+
+4- El resto se describen por si solas, para más ayuda contacte con los autores
